@@ -325,7 +325,7 @@ a {
 }
 
 .pink-background {
-  width: 810px;
+  width: 900px;
   height: 550px;
   background-color: var(--clr-bg-pink);
   position: absolute;
@@ -344,13 +344,13 @@ a {
 .car-loan {
   position: absolute;
   top: 144px;
-  right: 700px;
+  right: 800px;
 }
 
 .home-loan {
   position: absolute;
   top: 250px;
-  right: 300px;
+  right: 400px;
 }
 
 .creating-extraordinary {
